@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#1b3c6e"/>
+  <rect x="40" y="30" width="320" height="200" rx="14" fill="#edf5ff"/>
+  <text x="200" y="118" font-size="30" text-anchor="middle" fill="#1b3c6e" font-family="Arial">BookNest</text>
+  <text x="200" y="162" font-size="18" text-anchor="middle" fill="#1b3c6e" font-family="Arial">Static Files Demo</text>
+</svg>

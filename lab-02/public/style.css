@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f7fb;
+  color: #1d1d1d;
+  margin: 0;
+  padding: 40px;
+}
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  text-align: center;
+}
+img {
+  width: 260px;
+  margin-top: 20px;
+}
+a {
+  color: #1f5fbf;
+  text-decoration: none;
+  font-weight: bold;
+}

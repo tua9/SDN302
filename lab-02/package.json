@@ -1,0 +1,17 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "SDN302 Lab 02 Server-side Development",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "node",
+    "http",
+    "lab"
+  ],
+  "author": "",
+  "license": "ISC"
+}
