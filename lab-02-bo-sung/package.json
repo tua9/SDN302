@@ -1,0 +1,16 @@
+{
+  "name": "booknest-catalog",
+  "version": "1.0.0",
+  "description": "BookNest terminal catalogue program",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": ["node", "booknest", "catalogue"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
